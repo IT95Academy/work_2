@@ -1,0 +1,45 @@
+body {
+  background-image: url('/img/background_image.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: cursive;
+}
+
+h1 {
+  text-align: center;
+  color: maroon;
+}
+
+h2 {
+  color: slateblue;
+}
+
+h3 {
+  color: darkgoldenrod;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  border: 5px blanchedalmond double;
+  border-radius: 25px;
+}
+
+ul {
+  color: mediumspringgreen;
+}
+
+ol {
+  color: mediumspringgreen;
+}
+
+p {
+  color: mediumspringgreen;
+}
+
+input {
+  border-radius: 5px;
+  background: gold;
+  color: mediumblue;
+}
